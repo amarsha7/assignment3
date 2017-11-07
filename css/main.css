@@ -1,0 +1,14 @@
+body{
+    color: #ffffff;
+    background-image: url("../images/steel.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+a{
+    color: #ffffff;
+    padding: 0px 10px 0px 10px;
+    font-size: 120%;
+    text-decoration-color: blueviolet;
+    text-transform: uppercase;
+}
